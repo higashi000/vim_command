@@ -1,0 +1,1 @@
+inoremap s;; std::
